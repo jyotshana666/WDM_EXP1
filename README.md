@@ -1,5 +1,5 @@
 ### EX1 Creation of Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform Preprocessing
-### DATE: 
+### DATE: 8.08.2025
 ### AIM: 
   To Create Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform preprocessing
 ### PROCEDURE: 
@@ -54,6 +54,8 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 
+<img width="1228" height="735" alt="Screenshot 2025-08-08 105747" src="https://github.com/user-attachments/assets/43242f35-f7c1-4ead-ad97-4a49f558119a" />
+<img width="1919" height="1137" alt="image" src="https://github.com/user-attachments/assets/dd705a55-84d6-4db0-b87a-bf51732bff04" />
 
 
 ### PREPROCESSING
@@ -76,6 +78,11 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 
+<img width="1919" height="1135" alt="Screenshot 2025-08-08 105515" src="https://github.com/user-attachments/assets/6ee0875c-168f-4865-8a6d-9f7fe85527fe" />
+
+<img width="1919" height="1140" alt="image" src="https://github.com/user-attachments/assets/f4cb8d59-8908-42b9-a466-e2910e1a92b9" />
+
+
 ### 2) Remove -> Pre-Processing Technique:
 
 1) Start -> Programs -> Weka-3-4 -> Weka-3-4
@@ -92,6 +99,10 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 
+<img width="1919" height="1147" alt="image" src="https://github.com/user-attachments/assets/8f2c0ab7-e0c8-4d63-a44e-efbfdd60a202" />
+
+<img width="1919" height="1144" alt="image" src="https://github.com/user-attachments/assets/e56af5c9-26d2-4052-9492-31e913bfcb30" />
+
 ### Normalize -> Pre-Processing Technique:
 
 1) Start -> Programs -> Weka-3-4 -> Weka-3-4
@@ -107,5 +118,9 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table with normalized values on Weka.
 
 ### OUTPUT:
+<img width="1919" height="1138" alt="image" src="https://github.com/user-attachments/assets/b153c8af-5721-4899-8cf4-b84b2c620c2e" />
+<img width="1919" height="1149" alt="image" src="https://github.com/user-attachments/assets/4294dca9-0328-4ab3-a365-db17274350ca" />
+
+
 ### RESULT: 
   Thus the program for generating employee and weather datasets has been developed, and preprocessing has been accomplished successfully.
